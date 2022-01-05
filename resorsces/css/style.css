@@ -20,10 +20,9 @@ h1 {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
-    font-family: system-ui;
 }
 
-video {
+video, img {
     display: block;
     margin: auto;
 } 

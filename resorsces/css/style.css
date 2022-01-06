@@ -32,3 +32,9 @@ h2 {
     font-size: 21px;
     color: gray;
 }
+
+.footer-p {
+    color: gray;
+    text-align: right;
+    font-weight: bold;
+}
